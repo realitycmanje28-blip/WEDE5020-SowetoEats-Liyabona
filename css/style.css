@@ -1,0 +1,7 @@
+body { font-family: Arial, sans-serif; margin: 0; background: #FFF8F0; color: #333; }
+header { background: #FF6B35; color: white; padding: 1rem; text-align: center; }
+nav a { color: white; margin: 0 10px; text-decoration: none; font-weight: bold; }
+.hero { background: #FFA500; color: white; padding: 3rem; text-align: center; }
+.btn { background: #2E8B57; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; }
+main { padding: 2rem; }
+footer { background: #333; color: white; text-align: center; padding: 1rem; margin-top: 2rem; }
